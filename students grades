@@ -1,0 +1,2 @@
+if total marks of student is greater than 450 give grade as 'A'
+if total marks are greater than 350 give grade as 'B'
